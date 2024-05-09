@@ -1,2 +1,2 @@
-# InuEngine
-Enu Engine
+# KuriEngine
+Kuri Engine
